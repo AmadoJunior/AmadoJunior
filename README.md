@@ -1,6 +1,4 @@
-- I’m @AmadoJunior, Computer Science Undergrad.
-- My Portfolio -> https://admbuilt.com
 - I’m interested in Machine Learning, Embedded Systems and Web Development.
 - I’m currently familiarizing myself with the applications of Linear Algebra in Computer Science.
 - I’m looking to collaborate on solving challenging software problems.
-- You can reach me at amado.dominguez001@protonmail.com.
+- You can reach me at amado@bit5ive.com.

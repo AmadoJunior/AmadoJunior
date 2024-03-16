@@ -1,4 +1,3 @@
 - I’m interested in Embedded Systems and Web Development.
-- I’m currently familiarizing myself with Golang.
 - I’m looking to collaborate on solving challenging software problems.
-- You can reach me at amado.dominguez001@protonmail.com.
+- You can reach me at amado@admbuilt.com
